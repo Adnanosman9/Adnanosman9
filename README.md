@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan Osman</h1>
 <h3 align="center">I am a high school student diving deep into world of Tech</h3>
-<h3 align="center">(with generous assistance from AI😅)</h3>
+<h3 align="center">(yeah, with generous assistance from AI😅)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Robotics+Enthusiast+%F0%9F%A4%96;AI+%26+ML+Explorer+%F0%9F%A7%A0;" alt="Typing SVG" />

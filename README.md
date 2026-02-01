@@ -67,7 +67,7 @@
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,pycharm,jupyter,github&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,pycharm,jupyter,github,streamlit&titles=true"
     />
   </a>
 </h3>

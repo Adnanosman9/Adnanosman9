@@ -18,7 +18,7 @@
   <a href="https://twitter.com/YOUR_TWITTER_ID">
     <img src="https://www.readmecodegen.com/api/social-icon?name=slack&animation=bounce&animationDuration=1.7&color=%23f59e0b" alt="Twitter" hspace="5"/>
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_ID">
+  <a href="https://instagram.com/adnan_osman19">
     <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=48&animation=bounce&animationDuration=1.7" alt="Instagram" hspace="5"/>
   </a>
   <a href="mailto:your.email@example.com">

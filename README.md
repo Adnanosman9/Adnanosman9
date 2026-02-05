@@ -7,25 +7,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Robotics+Enthusiast+%F0%9F%A4%96;AI+%26+ML+Explorer+%F0%9F%A7%A0;" alt="Typing SVG" />
 </p>
 
-## 🌐 Connect With Me
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.facebook.com/YOUR_FACEBOOK_ID">
     <img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=48&animation=bounce&animationDuration=1.7" alt="Facebook" hspace="5"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="">
     <img src="https://www.readmecodegen.com/api/social-icon?name=X&color=%23ffffff" alt="LinkedIn" hspace="5"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_ID">
+  <a href="https://x.com/AdnanOsman81831">
     <img src="https://www.readmecodegen.com/api/social-icon?name=slack&animation=bounce&animationDuration=1.7&color=%23f59e0b" alt="Twitter" hspace="5"/>
   </a>
   <a href="https://instagram.com/adnan_osman19">
     <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=48&animation=bounce&animationDuration=1.7" alt="Instagram" hspace="5"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="adnanosman137m@gmail.com">
     <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=48&animation=bounce&animationDuration=1.7" alt="Email" hspace="5"/>
   </a>
-</p>
+</p> -->
 
 ##  🚀 Currently I am into
 <h3>
